@@ -1,1 +1,2 @@
 # scada
+scada.png
